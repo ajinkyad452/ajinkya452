@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ajinkya
 #### I am Software Engineer
-![I am Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Software Engineer]
 
 I work on any technology that is given to me! I enjoy working on new things untill its new.. 
 
@@ -19,3 +19,5 @@ Skills: Java / Angular / PHP / Javascript / AWS / NodeJs
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkyad452&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/ajinkyad452)  
+
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
