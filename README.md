@@ -6,4 +6,6 @@
 
 [![Ajinkya's github stats](https://github-readme-stats.vercel.app/api?username=ajinkyad452)](https://github.com/ajinkyad452/github-readme-stats)
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
