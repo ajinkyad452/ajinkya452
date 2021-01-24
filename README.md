@@ -16,8 +16,6 @@ Skills: Java / Angular / PHP / Javascript / AWS / NodeJs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyad452)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkyad452&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/ajinkyad452)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkyad452&show_icons=true)  ![Profile views](https://gpvc.arturio.dev/ajinkyad452)  
 
 ![I am Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
