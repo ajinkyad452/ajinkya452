@@ -18,6 +18,4 @@ Skills: Java / Angular / PHP / Javascript / AWS / NodeJs
 
 ![Profile views](https://gpvc.arturio.dev/ajinkyad452)  
 
-![I am Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 [![Open Source Helpers](https://www.codetriage.com/phpmyadmin/phpmyadmin/badges/users.svg)](https://www.codetriage.com/phpmyadmin/phpmyadmin)
